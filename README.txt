@@ -11,7 +11,7 @@ Handwritten Digit Classifier
   Training and Testing data for the handwritten digits needs to be downloaded and saved into a folder called 'MNISTData' in your directory
     http://yann.lecun.com/exdb/mnist/
   
-  prepData.m is called by the main file to prepare the data for the learning algorithum so there is no need to unzip the '.gx' files 
+  prepData.m is called by the main file to prepare the data for the main script so there is no need to unzip the '.gx' files 
 
 
 
